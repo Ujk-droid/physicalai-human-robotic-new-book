@@ -5,10 +5,10 @@
   "source": "@site/docs/module4/week12-humanoid-dev-2.md",
   "sourceDirName": "module4",
   "slug": "/module4/week12-humanoid-dev-2",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2",
+  "permalink": "/docs/module4/week12-humanoid-dev-2",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module4/week12-humanoid-dev-2.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Humanoid Kinematics and Dynamics",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev"
+    "permalink": "/docs/module4/week11-humanoid-dev"
   },
   "next": {
     "title": "Conversational Robotics & VLA Models",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics"
+    "permalink": "/docs/module4/week13-conversational-robotics"
   }
 }

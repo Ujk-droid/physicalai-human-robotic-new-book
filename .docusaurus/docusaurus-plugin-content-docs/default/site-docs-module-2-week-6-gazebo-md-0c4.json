@@ -5,10 +5,10 @@
   "source": "@site/docs/module2/week6-gazebo.md",
   "sourceDirName": "module2",
   "slug": "/module2/week6-gazebo",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo",
+  "permalink": "/docs/module2/week6-gazebo",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module2/week6-gazebo.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 2: Gazebo & Unity",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity"
+    "permalink": "/docs/category/module-2-gazebo--unity"
   },
   "next": {
     "title": "Unity Integration and Sensor Simulation",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity"
+    "permalink": "/docs/module2/week7-gazebo-unity"
   }
 }

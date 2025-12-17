@@ -5,10 +5,10 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/",
+  "permalink": "/docs/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hardware Requirements",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements"
+    "permalink": "/docs/hardware-requirements"
   },
   "next": {
     "title": "Module 1: ROS 2 Fundamentals",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals"
+    "permalink": "/docs/category/module-1-ros-2-fundamentals"
   }
 }

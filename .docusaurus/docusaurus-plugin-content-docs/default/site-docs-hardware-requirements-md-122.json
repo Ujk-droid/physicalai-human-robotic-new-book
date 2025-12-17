@@ -5,10 +5,10 @@
   "source": "@site/docs/hardware-requirements.md",
   "sourceDirName": ".",
   "slug": "/hardware-requirements",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements",
+  "permalink": "/docs/hardware-requirements",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/hardware-requirements.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -28,6 +28,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Physical AI & Humanoid Robotics",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/"
+    "permalink": "/docs/"
   }
 }

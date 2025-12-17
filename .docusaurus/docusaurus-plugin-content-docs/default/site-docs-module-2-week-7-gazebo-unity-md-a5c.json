@@ -5,10 +5,10 @@
   "source": "@site/docs/module2/week7-gazebo-unity.md",
   "sourceDirName": "module2",
   "slug": "/module2/week7-gazebo-unity",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity",
+  "permalink": "/docs/module2/week7-gazebo-unity",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module2/week7-gazebo-unity.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Robot Simulation with Gazebo",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo"
+    "permalink": "/docs/module2/week6-gazebo"
   },
   "next": {
     "title": "Module 3: NVIDIA Isaac",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac"
+    "permalink": "/docs/category/module-3-nvidia-isaac"
   }
 }

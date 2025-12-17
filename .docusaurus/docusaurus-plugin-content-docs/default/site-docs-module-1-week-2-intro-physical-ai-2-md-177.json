@@ -5,10 +5,10 @@
   "source": "@site/docs/module1/week2-intro-physical-ai-2.md",
   "sourceDirName": "module1",
   "slug": "/module1/week2-intro-physical-ai-2",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2",
+  "permalink": "/docs/module1/week2-intro-physical-ai-2",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module1/week2-intro-physical-ai-2.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Physical AI",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai"
+    "permalink": "/docs/module1/week1-intro-physical-ai"
   },
   "next": {
     "title": "ROS 2 Architecture",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals"
+    "permalink": "/docs/module1/week3-ros-fundamentals"
   }
 }

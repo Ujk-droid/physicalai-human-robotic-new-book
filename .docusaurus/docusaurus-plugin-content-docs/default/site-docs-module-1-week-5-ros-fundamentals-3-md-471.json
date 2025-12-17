@@ -5,10 +5,10 @@
   "source": "@site/docs/module1/week5-ros-fundamentals-3.md",
   "sourceDirName": "module1",
   "slug": "/module1/week5-ros-fundamentals-3",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3",
+  "permalink": "/docs/module1/week5-ros-fundamentals-3",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module1/week5-ros-fundamentals-3.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -27,10 +27,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ROS 2 Communication Patterns",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2"
+    "permalink": "/docs/module1/week4-ros-fundamentals-2"
   },
   "next": {
     "title": "Module 2: Gazebo & Unity",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity"
+    "permalink": "/docs/category/module-2-gazebo--unity"
   }
 }

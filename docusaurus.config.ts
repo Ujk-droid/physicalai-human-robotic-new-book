@@ -9,12 +9,12 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/BismaYousuf',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/physical-ai-and-humanoid-robotics/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
-  organizationName: 'Bisma Yousuf',
+  organizationName: 'uzmakhan',
   projectName: 'physical-ai-and-humanoid-robotics',
 
   onBrokenLinks: 'warn',
@@ -41,7 +41,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
-          editUrl: 'https://github.com/BismaYousuf',
+          editUrl: 'https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git',
         },
         blog: false, // Blog disabled as per textbook structure
         theme: {
@@ -54,12 +54,12 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/social-card.jpg',
-    
-    // We handle dark mode toggle in the UserProfileButton, 
+
+    // We handle dark mode toggle in the UserProfileButton,
     // but we keep respectPrefersColorScheme true
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true, 
+      disableSwitch: true,
       respectPrefersColorScheme: true,
     },
 
@@ -68,7 +68,7 @@ const config: Config = {
       logo: {
         alt: 'Physical AI Logo',
         // Yahan humne naya logo link kar diya hai
-        src: 'img/ai-logo.svg', 
+        src: 'img/ai-logo.svg',
       },
       items: [
         {
@@ -102,7 +102,7 @@ const config: Config = {
         },
         // GitHub link is handled via CSS in your custom theme or can be added here
         {
-          href: 'https://github.com/BismaYousuf',
+          href: 'https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,12 +128,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Bisma GitHub',
-              href: 'https://github.com/BismaYousuf',
+              label: 'ujk GitHub',
+              href: 'https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git',
             },
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/bisma-yousuf-52572b2b4/',
+              href: 'www.linkedin.com/in/uzma-khan-4818b42b4',
             },
           ],
         },
@@ -142,7 +142,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/BismaYousuf',
+              href: 'https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git',
             },
           ],
         },

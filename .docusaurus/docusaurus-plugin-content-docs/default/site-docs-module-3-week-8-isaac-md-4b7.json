@@ -5,10 +5,10 @@
   "source": "@site/docs/module3/week8-isaac.md",
   "sourceDirName": "module3",
   "slug": "/module3/week8-isaac",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac",
+  "permalink": "/docs/module3/week8-isaac",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module3/week8-isaac.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -29,10 +29,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 3: NVIDIA Isaac",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac"
+    "permalink": "/docs/category/module-3-nvidia-isaac"
   },
   "next": {
     "title": "Isaac ROS and VSLAM",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2"
+    "permalink": "/docs/module3/week9-isaac-2"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/module4/week13-conversational-robotics.md",
   "sourceDirName": "module4",
   "slug": "/module4/week13-conversational-robotics",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics",
+  "permalink": "/docs/module4/week13-conversational-robotics",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module4/week13-conversational-robotics.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -28,6 +28,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manipulation and Human-Robot Interaction",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2"
+    "permalink": "/docs/module4/week12-humanoid-dev-2"
   }
 }

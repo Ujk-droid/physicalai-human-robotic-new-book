@@ -3,168 +3,168 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug', '16e'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/config',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/config', '776'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/content',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/content', '669'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/globalData',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/globalData', '053'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/metadata',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/metadata', '250'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/registry',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/registry', 'c41'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/__docusaurus/debug/routes',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/__docusaurus/debug/routes', '2b6'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/markdown-page',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/markdown-page', '87e'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/docs',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs', '733'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'aa1'),
     routes: [
       {
-        path: '/physical-ai-and-humanoid-robotics/docs',
-        component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs', 'de9'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'bc6'),
         routes: [
           {
-            path: '/physical-ai-and-humanoid-robotics/docs',
-            component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs', 'd22'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '60f'),
             routes: [
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/', 'd34'),
+                path: '/docs/',
+                component: ComponentCreator('/docs/', '698'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals', 'b3f'),
+                path: '/docs/category/module-1-ros-2-fundamentals',
+                component: ComponentCreator('/docs/category/module-1-ros-2-fundamentals', '91b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity', 'fab'),
+                path: '/docs/category/module-2-gazebo--unity',
+                component: ComponentCreator('/docs/category/module-2-gazebo--unity', 'c6a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac', 'fae'),
+                path: '/docs/category/module-3-nvidia-isaac',
+                component: ComponentCreator('/docs/category/module-3-nvidia-isaac', '05c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action', 'ca7'),
+                path: '/docs/category/module-4-vision-language-action',
+                component: ComponentCreator('/docs/category/module-4-vision-language-action', 'a2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/hardware-requirements',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/hardware-requirements', '816'),
+                path: '/docs/hardware-requirements',
+                component: ComponentCreator('/docs/hardware-requirements', '663'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai', 'd07'),
+                path: '/docs/module1/week1-intro-physical-ai',
+                component: ComponentCreator('/docs/module1/week1-intro-physical-ai', '6d0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2', '86c'),
+                path: '/docs/module1/week2-intro-physical-ai-2',
+                component: ComponentCreator('/docs/module1/week2-intro-physical-ai-2', 'e71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals', 'a42'),
+                path: '/docs/module1/week3-ros-fundamentals',
+                component: ComponentCreator('/docs/module1/week3-ros-fundamentals', '501'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2', '578'),
+                path: '/docs/module1/week4-ros-fundamentals-2',
+                component: ComponentCreator('/docs/module1/week4-ros-fundamentals-2', '0be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3', 'ba2'),
+                path: '/docs/module1/week5-ros-fundamentals-3',
+                component: ComponentCreator('/docs/module1/week5-ros-fundamentals-3', '008'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo', '568'),
+                path: '/docs/module2/week6-gazebo',
+                component: ComponentCreator('/docs/module2/week6-gazebo', '7d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity', 'c6b'),
+                path: '/docs/module2/week7-gazebo-unity',
+                component: ComponentCreator('/docs/module2/week7-gazebo-unity', 'b30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3', '267'),
+                path: '/docs/module3/week10-isaac-3',
+                component: ComponentCreator('/docs/module3/week10-isaac-3', '24b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac', '85d'),
+                path: '/docs/module3/week8-isaac',
+                component: ComponentCreator('/docs/module3/week8-isaac', '93a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2', 'ee0'),
+                path: '/docs/module3/week9-isaac-2',
+                component: ComponentCreator('/docs/module3/week9-isaac-2', '86f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev', 'a27'),
+                path: '/docs/module4/week11-humanoid-dev',
+                component: ComponentCreator('/docs/module4/week11-humanoid-dev', '180'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2', '80e'),
+                path: '/docs/module4/week12-humanoid-dev-2',
+                component: ComponentCreator('/docs/module4/week12-humanoid-dev-2', '472'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics',
-                component: ComponentCreator('/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics', '791'),
+                path: '/docs/module4/week13-conversational-robotics',
+                component: ComponentCreator('/docs/module4/week13-conversational-robotics', 'f64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -175,8 +175,8 @@ export default [
     ]
   },
   {
-    path: '/physical-ai-and-humanoid-robotics/',
-    component: ComponentCreator('/physical-ai-and-humanoid-robotics/', '603'),
+    path: '/',
+    component: ComponentCreator('/', 'e5f'),
     exact: true
   },
   {

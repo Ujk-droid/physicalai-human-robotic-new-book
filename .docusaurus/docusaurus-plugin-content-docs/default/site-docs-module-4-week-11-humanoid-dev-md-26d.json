@@ -5,10 +5,10 @@
   "source": "@site/docs/module4/week11-humanoid-dev.md",
   "sourceDirName": "module4",
   "slug": "/module4/week11-humanoid-dev",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev",
+  "permalink": "/docs/module4/week11-humanoid-dev",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module4/week11-humanoid-dev.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 4: Vision-Language-Action",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action"
+    "permalink": "/docs/category/module-4-vision-language-action"
   },
   "next": {
     "title": "Manipulation and Human-Robot Interaction",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2"
+    "permalink": "/docs/module4/week12-humanoid-dev-2"
   }
 }

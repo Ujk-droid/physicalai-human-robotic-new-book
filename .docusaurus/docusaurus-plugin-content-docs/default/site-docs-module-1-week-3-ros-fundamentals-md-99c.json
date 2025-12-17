@@ -5,10 +5,10 @@
   "source": "@site/docs/module1/week3-ros-fundamentals.md",
   "sourceDirName": "module1",
   "slug": "/module1/week3-ros-fundamentals",
-  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals",
+  "permalink": "/docs/module1/week3-ros-fundamentals",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BismaYousuf",
+  "editUrl": "https://github.com/Ujk-droid/physicalai-human-robotic-new-book.git/docs/module1/week3-ros-fundamentals.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -28,10 +28,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sensors and Embodiment",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2"
+    "permalink": "/docs/module1/week2-intro-physical-ai-2"
   },
   "next": {
     "title": "ROS 2 Communication Patterns",
-    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2"
+    "permalink": "/docs/module1/week4-ros-fundamentals-2"
   }
 }
