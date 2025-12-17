@@ -1,5 +1,5 @@
 // src\components\ContentHighlight\ContentHighlight.tsx
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState, useCallback, useRef } from 'react';
 import { useLocation } from '@docusaurus/router';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 import styles from './ContentHighlight.module.css';
@@ -16,26 +16,38 @@ const SCROLL_OFFSET = 100; // Offset from top when scrolling
 export default function ContentHighlight(): JSX.Element | null {
   const location = useLocation();
   const isBrowser = useIsBrowser();
+
+  // Initialize with default values that don't rely on browser APIs
   const [highlight, setHighlight] = useState<HighlightState>({
     isActive: false,
     targetElement: null,
     rect: null,
   });
 
+  // Use ref to prevent stale closures
+  const highlightRef = useRef(highlight);
+  highlightRef.current = highlight;
+
   const clearHighlight = useCallback(() => {
+    if (!isBrowser) return;
     setHighlight({
       isActive: false,
       targetElement: null,
       rect: null,
     });
-  }, []);
+  }, [isBrowser]);
 
   const updateHighlightPosition = useCallback(() => {
-    if (highlight.targetElement) {
-      const rect = highlight.targetElement.getBoundingClientRect();
-      setHighlight(prev => ({ ...prev, rect }));
+    if (!isBrowser) return;
+    if (highlightRef.current.targetElement) {
+      try {
+        const rect = highlightRef.current.targetElement.getBoundingClientRect();
+        setHighlight(prev => ({ ...prev, rect }));
+      } catch (error) {
+        console.warn('Error updating highlight position:', error);
+      }
     }
-  }, [highlight.targetElement]);
+  }, [isBrowser]);
 
   useEffect(() => {
     if (!isBrowser) return;
@@ -48,39 +60,46 @@ export default function ContentHighlight(): JSX.Element | null {
 
     // Extract the ID from the hash (remove the #)
     const targetId = hash.slice(1);
-    
+
     // Small delay to ensure DOM is ready after navigation
     const findAndHighlight = () => {
-      const element = document.getElementById(targetId);
-      
-      if (element) {
-        // Scroll to element with offset
-        const elementTop = element.getBoundingClientRect().top + window.scrollY;
-        window.scrollTo({
-          top: elementTop - SCROLL_OFFSET,
-          behavior: 'smooth',
-        });
+      try {
+        const element = document.getElementById(targetId);
 
-        // Get element position for highlight overlay
-        const rect = element.getBoundingClientRect();
-        
-        setHighlight({
-          isActive: true,
-          targetElement: element,
-          rect,
-        });
+        if (element) {
+          // Scroll to element with offset
+          const elementTop = element.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({
+            top: elementTop - SCROLL_OFFSET,
+            behavior: 'smooth',
+          });
 
-        // Auto-clear highlight after duration
-        const timeout = setTimeout(() => {
-          clearHighlight();
-        }, HIGHLIGHT_DURATION);
+          // Get element position for highlight overlay
+          const rect = element.getBoundingClientRect();
 
-        return () => clearTimeout(timeout);
+          setHighlight({
+            isActive: true,
+            targetElement: element,
+            rect,
+          });
+
+          // Auto-clear highlight after duration
+          const timeout = setTimeout(() => {
+            clearHighlight();
+          }, HIGHLIGHT_DURATION);
+
+          // Return cleanup function
+          return () => clearTimeout(timeout);
+        }
+      } catch (error) {
+        console.warn('Error finding and highlighting element:', error);
       }
     };
 
     // Delay to allow page render
     const timer = setTimeout(findAndHighlight, 100);
+
+    // Cleanup timeout
     return () => clearTimeout(timer);
   }, [location.hash, isBrowser, clearHighlight]);
 
@@ -88,16 +107,21 @@ export default function ContentHighlight(): JSX.Element | null {
   useEffect(() => {
     if (!isBrowser || !highlight.isActive) return;
 
-    window.addEventListener('scroll', updateHighlightPosition);
-    window.addEventListener('resize', updateHighlightPosition);
+    const handleScrollResize = () => {
+      updateHighlightPosition();
+    };
 
+    window.addEventListener('scroll', handleScrollResize);
+    window.addEventListener('resize', handleScrollResize);
+
+    // Cleanup event listeners
     return () => {
-      window.removeEventListener('scroll', updateHighlightPosition);
-      window.removeEventListener('resize', updateHighlightPosition);
+      window.removeEventListener('scroll', handleScrollResize);
+      window.removeEventListener('resize', handleScrollResize);
     };
   }, [isBrowser, highlight.isActive, updateHighlightPosition]);
 
-  if (!highlight.isActive || !highlight.rect) {
+  if (!isBrowser || !highlight.isActive || !highlight.rect) {
     return null;
   }
 
