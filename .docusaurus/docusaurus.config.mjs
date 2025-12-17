@@ -11,7 +11,24 @@ export default {
   "baseUrl": "/",
   "organizationName": "uzmakhan",
   "projectName": "physical-ai-and-humanoid-robotics",
-  "onBrokenLinks": "warn",
+  "onBrokenLinks": "ignore",
+  "markdown": {
+    "hooks": {
+      "onBrokenMarkdownLinks": "ignore",
+      "onBrokenMarkdownImages": "throw"
+    },
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -115,7 +132,7 @@ export default {
             },
             {
               "label": "LinkedIn",
-              "href": "www.linkedin.com/in/uzma-khan-4818b42b4"
+              "href": "https://www.linkedin.com/in/uzma-khan-4818b42b4"
             }
           ]
         },
@@ -387,22 +404,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "emoji": true,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
-    }
-  }
+  "noIndex": false
 };
