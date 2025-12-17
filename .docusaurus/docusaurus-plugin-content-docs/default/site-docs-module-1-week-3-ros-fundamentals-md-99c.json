@@ -1,0 +1,37 @@
+{
+  "id": "module1/week3-ros-fundamentals",
+  "title": "ROS 2 Architecture",
+  "description": "Understanding ROS 2 architecture, nodes, topics, services, and the communication patterns for robot control",
+  "source": "@site/docs/module1/week3-ros-fundamentals.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/week3-ros-fundamentals",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "ROS 2 Architecture",
+    "description": "Understanding ROS 2 architecture, nodes, topics, services, and the communication patterns for robot control",
+    "keywords": [
+      "ros2",
+      "nodes",
+      "topics",
+      "services",
+      "dds",
+      "middleware"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensors and Embodiment",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2"
+  },
+  "next": {
+    "title": "ROS 2 Communication Patterns",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2"
+  }
+}

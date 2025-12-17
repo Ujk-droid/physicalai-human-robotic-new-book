@@ -1,0 +1,35 @@
+{
+  "id": "module1/week1-intro-physical-ai",
+  "title": "Introduction to Physical AI",
+  "description": "Foundations of Physical AI and embodied intelligence - bridging digital AI to physical systems",
+  "source": "@site/docs/module1/week1-intro-physical-ai.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/week1-intro-physical-ai",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Physical AI",
+    "description": "Foundations of Physical AI and embodied intelligence - bridging digital AI to physical systems",
+    "keywords": [
+      "physical-ai",
+      "embodied-intelligence",
+      "humanoid-robotics",
+      "sensors"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: ROS 2 Fundamentals",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals"
+  },
+  "next": {
+    "title": "Sensors and Embodiment",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2"
+  }
+}

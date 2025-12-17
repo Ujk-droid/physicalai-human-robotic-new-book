@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-and-humanoid-robotics/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-and-humanoid-robotics/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "hardware-requirements",
+              "path": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-and-humanoid-robotics/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/week1-intro-physical-ai",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/week2-intro-physical-ai-2",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/week3-ros-fundamentals",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/week4-ros-fundamentals-2",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/week5-ros-fundamentals-3",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/week6-gazebo",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/week7-gazebo-unity",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module3/week10-isaac-3",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module3/week8-isaac",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module3/week9-isaac-2",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module4/week11-humanoid-dev",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module4/week12-humanoid-dev-2",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module4/week13-conversational-robotics",
+              "path": "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-1-ros-2-fundamentals",
+              "path": "/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-2-gazebo--unity",
+              "path": "/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-3-nvidia-isaac",
+              "path": "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-4-vision-language-action",
+              "path": "/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements",
+                "label": "hardware-requirements"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "module2/week7-gazebo-unity",
+  "title": "Unity Integration and Sensor Simulation",
+  "description": "High-fidelity rendering with Unity and simulating LiDAR, depth cameras, and IMUs",
+  "source": "@site/docs/module2/week7-gazebo-unity.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/week7-gazebo-unity",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Unity Integration and Sensor Simulation",
+    "description": "High-fidelity rendering with Unity and simulating LiDAR, depth cameras, and IMUs",
+    "keywords": [
+      "unity",
+      "sensors",
+      "lidar",
+      "depth-camera",
+      "imu",
+      "simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Simulation with Gazebo",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo"
+  },
+  "next": {
+    "title": "Module 3: NVIDIA Isaac",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac"
+  }
+}

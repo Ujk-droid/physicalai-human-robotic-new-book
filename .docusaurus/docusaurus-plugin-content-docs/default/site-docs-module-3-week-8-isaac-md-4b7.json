@@ -1,0 +1,38 @@
+{
+  "id": "module3/week8-isaac",
+  "title": "NVIDIA Isaac Platform Overview",
+  "description": "Introduction to NVIDIA Isaac ecosystem - Isaac Sim, Isaac ROS, and hardware-accelerated robotics",
+  "source": "@site/docs/module3/week8-isaac.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/week8-isaac",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "NVIDIA Isaac Platform Overview",
+    "description": "Introduction to NVIDIA Isaac ecosystem - Isaac Sim, Isaac ROS, and hardware-accelerated robotics",
+    "keywords": [
+      "nvidia",
+      "isaac",
+      "isaac-sim",
+      "isaac-ros",
+      "gpu",
+      "robotics",
+      "simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: NVIDIA Isaac",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac"
+  },
+  "next": {
+    "title": "Isaac ROS and VSLAM",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2"
+  }
+}

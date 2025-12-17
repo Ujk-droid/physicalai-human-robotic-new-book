@@ -1,0 +1,28 @@
+{
+  "id": "intro",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "Welcome to the Physical AI & Humanoid Robotics textbook! This course bridges the gap between the digital brain and the physical body, teaching you to design, simulate, and deploy humanoid robots capable of natural human interactions.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Requirements",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements"
+  },
+  "next": {
+    "title": "Module 1: ROS 2 Fundamentals",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "module1/week4-ros-fundamentals-2",
+  "title": "ROS 2 Communication Patterns",
+  "description": "Services, actions, and advanced communication patterns for robot control",
+  "source": "@site/docs/module1/week4-ros-fundamentals-2.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/week4-ros-fundamentals-2",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "ROS 2 Communication Patterns",
+    "description": "Services, actions, and advanced communication patterns for robot control",
+    "keywords": [
+      "ros2",
+      "services",
+      "actions",
+      "communication",
+      "rclpy"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals"
+  },
+  "next": {
+    "title": "ROS 2 Packages and Launch Files",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3"
+  }
+}

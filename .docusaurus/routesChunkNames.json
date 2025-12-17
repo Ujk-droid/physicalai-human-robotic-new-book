@@ -1,0 +1,148 @@
+{
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug-16e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/config-776": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/content-669": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    },
+    "__props": "__props---physical-ai-and-humanoid-robotics-docusaurus-debug-content-5-ea-44e"
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/globalData-053": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/metadata-250": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/registry-c41": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/__docusaurus/debug/routes-2b6": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docusaurus-debugb-38-81e"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/markdown-page-87e": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-markdown-pagea-74-05b"
+    },
+    "content": "content---physical-ai-and-humanoid-robotics-markdown-page-393-d37"
+  },
+  "/physical-ai-and-humanoid-robotics/docs-733": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-docsaba-991"
+    }
+  },
+  "/physical-ai-and-humanoid-robotics/docs-de9": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-and-humanoid-robotics-docs-33-f-29a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs-d22": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-0-e-3-45a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/category/module-1-ros-2-fundamentals-b3f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-and-humanoid-robotics-docs-category-module-1-ros-2-fundamentals-367-ada"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity-fab": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-and-humanoid-robotics-docs-category-module-2-gazebo-unity-9-e-5-263"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/category/module-3-nvidia-isaac-fae": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-and-humanoid-robotics-docs-category-module-3-nvidia-isaacc-1-d-3fc"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action-ca7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-and-humanoid-robotics-docs-category-module-4-vision-language-actionabc-492"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/hardware-requirements-816": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-hardware-requirements-122-d8a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai-d07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-1-week-1-intro-physical-ai-771-c52"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2-86c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-1-week-2-intro-physical-ai-2177-28f"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals-a42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-1-week-3-ros-fundamentals-99-c-8bb"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2-578": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-1-week-4-ros-fundamentals-2-a-3-c-92b"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3-ba2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-1-week-5-ros-fundamentals-3471-f6a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module2/week6-gazebo-568": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-2-week-6-gazebo-0-c-4-1af"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module2/week7-gazebo-unity-c6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-2-week-7-gazebo-unitya-5-c-962"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3-267": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-3-week-10-isaac-3-ce-6-66a"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac-85d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-3-week-8-isaac-4-b-7-7e2"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2-ee0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-3-week-9-isaac-285-a-b74"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev-a27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-4-week-11-humanoid-dev-26-d-569"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2-80e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-4-week-12-humanoid-dev-2123-5ee"
+  },
+  "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics-791": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-and-humanoid-robotics-docs-module-4-week-13-conversational-robotics-375-578"
+  },
+  "/physical-ai-and-humanoid-robotics/-603": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---physical-ai-and-humanoid-robotics-markdown-pagea-74-05b"
+    },
+    "config": "config---physical-ai-and-humanoid-robotics-5-e-9-a3a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "module4/week13-conversational-robotics",
+  "title": "Conversational Robotics & VLA Models",
+  "description": "Voice-to-action pipelines, LLM integration, and Vision-Language-Action models for humanoid robots",
+  "source": "@site/docs/module4/week13-conversational-robotics.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/week13-conversational-robotics",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Conversational Robotics & VLA Models",
+    "description": "Voice-to-action pipelines, LLM integration, and Vision-Language-Action models for humanoid robots",
+    "keywords": [
+      "conversational-ai",
+      "whisper",
+      "llm",
+      "vla",
+      "voice-control",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manipulation and Human-Robot Interaction",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2"
+  }
+}

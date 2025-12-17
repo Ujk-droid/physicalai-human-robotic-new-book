@@ -1,0 +1,36 @@
+{
+  "id": "module1/week5-ros-fundamentals-3",
+  "title": "ROS 2 Packages and Launch Files",
+  "description": "Building ROS 2 packages with Python, launch files, and parameter management",
+  "source": "@site/docs/module1/week5-ros-fundamentals-3.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/week5-ros-fundamentals-3",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week5-ros-fundamentals-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "ROS 2 Packages and Launch Files",
+    "description": "Building ROS 2 packages with Python, launch files, and parameter management",
+    "keywords": [
+      "ros2",
+      "packages",
+      "launch",
+      "parameters",
+      "colcon"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Communication Patterns",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week4-ros-fundamentals-2"
+  },
+  "next": {
+    "title": "Module 2: Gazebo & Unity",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-2-gazebo--unity"
+  }
+}

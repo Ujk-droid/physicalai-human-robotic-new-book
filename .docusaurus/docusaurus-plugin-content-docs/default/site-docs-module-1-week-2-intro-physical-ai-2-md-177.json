@@ -1,0 +1,37 @@
+{
+  "id": "module1/week2-intro-physical-ai-2",
+  "title": "Sensors and Embodiment",
+  "description": "Understanding robot sensor systems - LiDAR, cameras, IMUs, and force sensors for Physical AI",
+  "source": "@site/docs/module1/week2-intro-physical-ai-2.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/week2-intro-physical-ai-2",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week2-intro-physical-ai-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Sensors and Embodiment",
+    "description": "Understanding robot sensor systems - LiDAR, cameras, IMUs, and force sensors for Physical AI",
+    "keywords": [
+      "sensors",
+      "lidar",
+      "imu",
+      "camera",
+      "force-sensor",
+      "embodiment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week1-intro-physical-ai"
+  },
+  "next": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module1/week3-ros-fundamentals"
+  }
+}

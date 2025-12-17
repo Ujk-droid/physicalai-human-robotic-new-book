@@ -1,0 +1,35 @@
+{
+  "id": "module3/week10-isaac-3",
+  "title": "Sim-to-Real Transfer",
+  "description": "Bridging the reality gap - domain randomization, reinforcement learning, and deploying simulation-trained models to real robots",
+  "source": "@site/docs/module3/week10-isaac-3.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/week10-isaac-3",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Sim-to-Real Transfer",
+    "description": "Bridging the reality gap - domain randomization, reinforcement learning, and deploying simulation-trained models to real robots",
+    "keywords": [
+      "sim-to-real",
+      "domain-randomization",
+      "reinforcement-learning",
+      "transfer-learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS and VSLAM",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/category/module-4-vision-language-action"
+  }
+}

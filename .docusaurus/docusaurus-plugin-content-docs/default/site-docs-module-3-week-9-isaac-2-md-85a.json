@@ -1,0 +1,36 @@
+{
+  "id": "module3/week9-isaac-2",
+  "title": "Isaac ROS and VSLAM",
+  "description": "Hardware-accelerated perception with Isaac ROS - Visual SLAM, object detection, and navigation",
+  "source": "@site/docs/module3/week9-isaac-2.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/week9-isaac-2",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week9-isaac-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Isaac ROS and VSLAM",
+    "description": "Hardware-accelerated perception with Isaac ROS - Visual SLAM, object detection, and navigation",
+    "keywords": [
+      "isaac-ros",
+      "vslam",
+      "perception",
+      "navigation",
+      "gpu-acceleration"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Platform Overview",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week8-isaac"
+  },
+  "next": {
+    "title": "Sim-to-Real Transfer",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module3/week10-isaac-3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hardware-requirements",
+  "title": "Hardware Requirements",
+  "description": "Complete hardware guide for Physical AI & Humanoid Robotics development",
+  "source": "@site/docs/hardware-requirements.md",
+  "sourceDirName": ".",
+  "slug": "/hardware-requirements",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/hardware-requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Hardware Requirements",
+    "description": "Complete hardware guide for Physical AI & Humanoid Robotics development",
+    "keywords": [
+      "hardware",
+      "gpu",
+      "jetson",
+      "requirements",
+      "workstation",
+      "robot"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/"
+  }
+}

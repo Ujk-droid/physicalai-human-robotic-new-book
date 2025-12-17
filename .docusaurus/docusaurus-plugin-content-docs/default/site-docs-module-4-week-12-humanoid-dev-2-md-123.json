@@ -1,0 +1,37 @@
+{
+  "id": "module4/week12-humanoid-dev-2",
+  "title": "Manipulation and Human-Robot Interaction",
+  "description": "Humanoid manipulation, grasping, and designing natural human-robot interaction",
+  "source": "@site/docs/module4/week12-humanoid-dev-2.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/week12-humanoid-dev-2",
+  "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week12-humanoid-dev-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BismaYousuf",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Manipulation and Human-Robot Interaction",
+    "description": "Humanoid manipulation, grasping, and designing natural human-robot interaction",
+    "keywords": [
+      "manipulation",
+      "grasping",
+      "human-robot-interaction",
+      "hri",
+      "gripper",
+      "dexterous"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Humanoid Kinematics and Dynamics",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week11-humanoid-dev"
+  },
+  "next": {
+    "title": "Conversational Robotics & VLA Models",
+    "permalink": "/physical-ai-and-humanoid-robotics/docs/module4/week13-conversational-robotics"
+  }
+}
